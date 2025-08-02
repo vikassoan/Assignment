@@ -279,6 +279,6 @@ if multi_counties:
 
 with st.container():
     st.markdown("---")
-    st.caption("© 2025 • EV Dashboard • Built by S4F | Internship Cycle 2")
+    st.caption("© 2025 • EV Dashboard • Built by Vikas Soan")
 
 
